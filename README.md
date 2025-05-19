@@ -163,4 +163,4 @@ void dmac_sci2_rx_callback(dmac_callback_args_t *p_args)
 
 ## 项目源码仓库
 
-  [https://github.com/DAMIAN-CHEN/LPC1114_RTT.git]
+  [[https://github.com/DAMIAN-CHEN/LPC1114_RTT.git](https://github.com/DAMIAN-CHEN/FSP_ibus_demo)]
